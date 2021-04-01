@@ -1,3 +1,11 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import 'contact.css';
+@import 'gallery.css';
+@import 'gpa.css';
+@import 'resume.css';
+@import 'post.css';
+
+
 html,
 body {
   padding: 0;

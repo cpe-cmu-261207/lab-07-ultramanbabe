@@ -1,0 +1,18 @@
+.body{
+    background-color: lightslategray;
+    text-align: center;
+
+}
+
+.text-page {
+    color:black;
+    text-align: center;
+}
+
+#choose{
+    font-size: 20px;
+    text-align: center;
+}
+a:hover{
+    color:red;
+}

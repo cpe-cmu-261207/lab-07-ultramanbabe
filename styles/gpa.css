@@ -1,0 +1,35 @@
+.body-gpa{
+
+    background-color:lightslategray;
+    align-content: center;
+}
+#menu,#submit-GPA,h2,#semAll,h1{
+    text-align: center;
+    color: blue;
+    margin: auto;
+
+}
+#menu td,#menu th{
+    text-align: center;
+    padding: 8px;
+}
+#table2{
+    border: lightslategray;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#h1{
+    background-color: lightslategray;
+    text-align: center;
+    color: black;
+    margin: auto;
+}
+#form{
+    background-color: lightslategray ;
+    border: black solid 2px;
+    width: 75%;
+    margin: auto;
+    
+}
